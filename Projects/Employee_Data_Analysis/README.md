@@ -22,11 +22,11 @@ You can install these libraries using pip:
 
 To run the code, open the Jupyter Notebook (Employee_Data_Analysis_Project.ipynb) and execute the cells. The key steps include:
 
-    Importing necessary libraries.
-    Creating and saving the Excel file with employee data.
-    Loading the data into a pandas DataFrame.
-    Displaying the DataFrame and its structure.
-    Performing data visualization using matplotlib and seaborn.
+- Importing necessary libraries.
+- Creating and saving the Excel file with employee data.
+- Loading the data into a pandas DataFrame.
+- Displaying the DataFrame and its structure.
+- Performing data visualization using matplotlib and seaborn.
 
 ## Running on Google Colab
 
