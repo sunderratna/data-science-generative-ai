@@ -32,31 +32,28 @@ To run the code, open the Jupyter Notebook (Employee_Data_Analysis_Project.ipynb
 
 To run the notebook on Google Colab:
 
-    Upload the Employee_Data_Analysis_Project.ipynb file to Google Drive.
-
-    Open the notebook in Google Colab.
-
-    Install the necessary libraries using:
+- Upload the Employee_Data_Analysis_Project.ipynb file to Google Drive.
+- Open the notebook in Google Colab.
+- Install the necessary libraries using:
         !pip install openpyxl pandas matplotlib seaborn
 
 
 ## Data Overview
 
 The data consists of the following columns:
-
-    NAME: The name of the employee.
-    DOMAIN: The area of expertise or job domain.
-    AGE: The age of the employee.
-    LOCATION: The location where the employee is based.
-    SALARY: The salary of the employee.
-    EXP: The years of experience the employee has.
+- NAME: The name of the employee.
+- DOMAIN: The area of expertise or job domain.
+- AGE: The age of the employee.
+- LOCATION: The location where the employee is based.
+- SALARY: The salary of the employee.
+- EXP: The years of experience the employee has.
 
 ## Analysis Steps
 
-    Data Creation: An Excel file is created with specified employee data.
-    Data Loading: The data is loaded into a pandas DataFrame.
-    Data Exploration: The structure and contents of the DataFrame are explored, including the number of rows and columns.
-    Data Visualization: Visualizations are created using matplotlib and seaborn to explore data trends and patterns.
+- Data Creation: An Excel file is created with specified employee data.
+- Data Loading: The data is loaded into a pandas DataFrame.
+- Data Exploration: The structure and contents of the DataFrame are explored, including the number of rows and columns.
+- Data Visualization: Visualizations are created using matplotlib and seaborn to explore data trends and patterns.
 
 ## Conclusion
 
