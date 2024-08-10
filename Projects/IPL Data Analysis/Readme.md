@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes IPL player data, including their salaries, games played, and points scored across multiple seasons. The aim is to visualize trends and compare player performance and earnings over the years.
+This project analyzes IPL players data, including their salaries, games played, and points scored across multiple seasons. The aim is to visualize trends and compare player performance and earnings over the years.
 
 ## Steps
 

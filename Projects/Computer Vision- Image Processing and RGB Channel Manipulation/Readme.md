@@ -54,4 +54,4 @@ Install the required libraries using pip:
 The repository includes Jupyter notebooks and Python scripts demonstrating various aspects of image processing and RGB channel analysis. Follow the instructions in the notebooks or scripts to execute and understand the analyses and visualizations.
 
 ## Contact
-For any questions or further information, please feel free to reach out to me via your dasariratnasunder@gmail.com or www.linkedin.com/in/ratnasunder-dasari80
+For any questions or further information, please feel free to reach out to me via your dasariratnsunder@gmail.com or www.linkedin.com/in/ratnasunder-dasari80
